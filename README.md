@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**levimutai/levimutai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Levi Mutai
 
-Here are some ideas to get you started:
+💻 *Software Engineer | Health-Tech | Backend & Cloud*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software engineer interested in building reliable software that solves
+real-world problems.
+
+🏥 I'm currently working on *Afiax* at *OORT Cloud Computing*, contributing
+to healthcare technology, interoperability and FHIR-based systems.
+
+🌱 Currently exploring:
+- FHIR & healthcare interoperability
+- Backend engineering & APIs
+- Cloud infrastructure & DevOps
+- Distributed systems
+- AI & emerging technologies
+- Open-source software
+
+🚀 I'm particularly interested in building technology that can scale beyond
+individual applications and contribute to larger systems across Africa.
+
+🤝 I'm open to collaborating on interesting **software, health-tech,
+open-source and infrastructure projects**.
+
+📍 Kenya
